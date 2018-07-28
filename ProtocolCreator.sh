@@ -4,7 +4,7 @@
                                     #                         #
                                     #     ProtocolCreator     #
                                     #       By TStudios       #
-                                    #   Version: 1.1 Pre-2    #
+                                    #   Version: 1.1.0        #
                                     #                         #
                                     ###########################
 
