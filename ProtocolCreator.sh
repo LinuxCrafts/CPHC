@@ -8,7 +8,7 @@
                                     #                         #
                                     ###########################
 
-kdialog --msgbox "THIS PROGRAM IS A DANGEROUS PROGRAM AND THE PROGRAMER WILL NOT BE RESPONSIBLE FOR ANY DAMAGE DONE!\n\nCopyright (c) 2018 TStudios All Rights Reserved."
+kdialog --msgbox "THIS PROGRAM IS A DANGEROUS PROGRAM AND THE PROGRAMER WILL NOT BE RESPONSIBLE FOR ANY DAMAGE DONE!\n\nCopyleft (c) 2018 SPS All Rights Reserved."
 cd ~/.local/share/applications
 Protocol=`kdialog --inputbox "Type your protocol name(example: http, https, file)[WARNING! DO NOT INCLUDE :// INSIDE OF THE PROTOCOL NAME ELSE THE PROGRAM MIGHT BREAK]:"`
 ProgramName=`kdialog --inputbox "Type your Program's name:"`
